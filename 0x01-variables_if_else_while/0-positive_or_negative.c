@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/*main is a function to be called*/
+/* main - is a function to be called*/
 int main(void)
 {
 	int n;
